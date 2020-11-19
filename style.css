@@ -1,0 +1,88 @@
+
+
+#heading{
+  text-align: center;
+  color: white;
+  background-color: #1B607A;
+  font-family: 'Aladin';font-size: 30px;
+
+}
+
+#footer{
+  text-align: center;
+  color: white;
+  background-color: #1B607A;
+  font-family: 'Aladin';font-size: 20px;
+
+}
+
+
+#intro{
+  text-align: center;
+  font-family: 'Aladin';font-size: 30px;
+}
+
+
+* {
+	box-sizing: border-box;
+}
+
+nav{
+  text-align: center;
+  background-color: #1B607A;
+  line-height: 2;
+}
+
+a:link{
+  color: whitesmoke;
+  font-family: 'Aladin'; font-size: 22px;
+  text-decoration: none;
+  
+}
+
+body {
+	color: #222;
+	font-family: 'Varela Round', sans-serif;
+	line-height: 1.5;
+	background-image: url('BG1.jpg');
+}
+h2 {
+	color: whitesmoke;
+	font-size: 1.6em;
+	margin-top: 1.85em;
+	margin-bottom: 0;
+}
+ul{
+  display:flex;
+  padding: 0;
+  list-style-type: none;
+  font-size:10px;
+  margin:0;
+}
+li{
+  margin: auto;
+}
+p {
+	margin-bottom: 0;
+	font-size: 15px;
+}
+.card {
+  position: relative;
+	width: 340px;
+	text-align: center;
+	margin: 80px auto 0;
+	padding: 1.5em;
+	background: #1B607A;
+  border-radius: 5px;
+  box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
+}
+.logo {
+  position: absolute;
+  top: -45px;
+  left: 125px;
+	width: 90px;
+}
+
+header1{
+  background-color: #1B607A;
+}
