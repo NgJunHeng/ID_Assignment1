@@ -8,6 +8,7 @@
 
 }
 
+
 #footer{
   text-align: center;
   color: white;
@@ -28,6 +29,11 @@
 
 #contentWork{
   font-family: 'Baumans'; font-size:20px;
+}
+
+#contentSkills{
+  font-family: 'Baumans'; font-size:20px;
+  text-align: left;
 }
 
 
@@ -115,10 +121,11 @@ h2 {
 }
 
 h3{
-  color: black;
-  font-size: 1.6em;
+  color: whitesmoke;
+  font-size: 30px;
 	margin-top: 1.85em;
-	margin-bottom: 0;
+  margin-bottom: 0;
+  text-align: left;
 }
 ul{
   display:flex;
