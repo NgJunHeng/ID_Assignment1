@@ -9,7 +9,18 @@
 </head>
 
 <link href='https://fonts.googleapis.com/css?family=Aladin' rel='stylesheet'>
+<link href='https://fonts.googleapis.com/css?family=Baumans' rel='stylesheet'>
 
+<script>
+  function changeImage() {
+    var image = document.getElementById('myImage');
+    if (image.src.match("bulbon")) {
+      image.src = "pic_bulboff.gif";
+    } else {
+      image.src = "pic_bulbon.gif";
+    }
+  }
+  </script>
 
 
 <body>
@@ -30,8 +41,58 @@
 <section>
       <div class="card">
       <img class="logo" src="Me2.jpg" alt="logo">
-      <h2>Ng Jun Heng</h2>
-      <p>Cheesecake oat cake marshmallow. Bonbon pastry apple pie danish donut bonbon marshmallow caramels. Bear claw chocolate bar lemon drops. Carrot cake jelly beans jelly beans pie.</p>
+      <h2>My Work Experience</h2>
+      <p id = 'contentWork' >I have worked many part-time jobs during my holidays.</p>
+</section>
+
+<section>
+
+  <ul class="flex-container">
+
+    <li class="flex-item3">
+      <h2>Internship at Fonda Global Pte Ltd (Jun 2019 - Sept 2019)</h2>
+
+      <p id = 'contentWork'>My job was to monitor CCTVs to catch illegal parking under HDB blocks, submit cases to my boss and survey new location of cameras that is going to be installed.
+       I learned a lot of hands on skills that will benefit me on my next job.
+      </p>
+
+    </li>
+
+    <li class="flex-item2">
+      <h2>Click the light bulb when you are finished reading!</h2>
+
+      <img id="myImage" onclick="changeImage()" src="pic_bulboff.gif" width="100" height="180">
+
+    </li>
+
+  </ul>
+</section>
+
+<section>
+
+  <ul class="flex-container">
+
+    <li class="flex-item2">
+      <h2>Book fest Cashier (Nov 2017 - Dec 2017)</h2>
+      <p id = 'contentWork'> I worked as a event cashier for 2 weeks. 
+        I've handled lots of customer during the event.</p>
+
+    </li>
+
+    <li class="flex-item2">
+      <h2>Retail Assistant at NTUC (2018-2019)</h2>
+      <p id = 'contentWork'> As a Retail Assistant, i stock up vegetables and fruits to the display area. 
+        Since i do not have much of an experience to this job, i was able to adapt to it quickly.</p>
+
+    </li>
+
+
+
+    </li>
+
+
+
+  </ul>
 </section>
 <br>
 
