@@ -26,6 +26,10 @@
   font-family: 'Baumans'; font-size:20px;
 }
 
+#contentWork{
+  font-family: 'Baumans'; font-size:20px;
+}
+
 
 * {
 	box-sizing: border-box;
@@ -52,9 +56,10 @@
   display: flex;
   justify-content: center;
   flex-wrap: nowrap;
-  
-  
+   
 }
+
+
 
 .flex-item2{
  position: relative;
@@ -67,6 +72,20 @@ border-radius: 5px;
 box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
 
 }
+
+
+.flex-item3{
+  position: relative;
+ width: 540px;
+ text-align: left;
+ margin: 80px auto 0;
+ padding: 1.5em;
+ background: #1B607A;
+ border-radius: 5px;
+ box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
+ 
+ }
+
 
 nav{
   text-align: center;
