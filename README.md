@@ -1,14 +1,23 @@
 Ng Jun Heng's Portfolio (Project name)
-My project consist of 6 pages. My website overview consist of my Introduction followed by My work experience, Education Road, Skills&Interest, 
-Personal infomation and a showcase of my past projects. This is basically what i will put inside my portfolio for my future needs of applying a job.
+
+  My project consist of 6 pages. My portfolio website consist of Introduction where i introduce myself and what i do during my free time.
+After my introduction, the next page is Work Experience page where i include all my past working experience to impress my employer. The next
+page is my Education Road page where i featured which school i went to and which level i am at. Then after is my Skills & Interest page where i include
+all the skills that i possessed and what i want to become.
+
+  The personal Information page is where i included my details for people to contact me when they are interested and for them the leave a message or comment
+if they have any. Lastly my project page to feature my past project that i have done during my time in school.
+
 
 Design Process
-As a user
+This website is for Company who is currently recruiting. Me as a job seeker, what i want to achieve is getting their attention
+by looking through my portfolio. 
 
 
 Features
 
 Technologies used
+
 
 Testing
 
