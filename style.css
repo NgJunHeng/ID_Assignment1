@@ -36,6 +36,17 @@
   text-align: left;
 }
 
+#contentInfo{
+  font-family: 'Baumans'; font-size:20px;
+  color: whitesmoke;
+}
+
+#contentContactInfo{
+  font-family: 'Baumans'; font-size:25px;
+  color: whitesmoke;
+  text-align: left;
+}
+
 
 * {
 	box-sizing: border-box;
@@ -92,7 +103,35 @@ box-shadow: 0 1.5px 0 0 rgba(0,0,0,0.1);
  
  }
 
+ .button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
 
+.button1 {
+  background-color: white; 
+  color: black; 
+  border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+
+input{
+  width: 300px;
+  height: 50px;
+}
 
 nav{
   text-align: center;
@@ -126,6 +165,14 @@ h3{
 	margin-top: 1.85em;
   margin-bottom: 0;
   text-align: left;
+}
+
+h4{
+  color: whitesmoke;
+	margin-top: 1.85em;
+  margin-bottom: 0;
+  text-align: center;
+  font-family: 'Bungee Shade';font-size: 35px;
 }
 ul{
   display:flex;
