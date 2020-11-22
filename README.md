@@ -28,6 +28,7 @@ https://www.google.com/search?q=ntuc+logo&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi
 https://www.ite.edu.sg/
 https://www.facebook.com/JurongSecSch/
 https://www.np.edu.sg/Pages/default.aspx
+https://www.w3schools.com/howto/tryit.asp?font=Bungee%20Shade
 
 
 
