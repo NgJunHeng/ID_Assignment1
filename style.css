@@ -25,14 +25,17 @@
 
 #content{
   font-family: 'Baumans'; font-size:20px;
+  
 }
 
 #contentWork{
   font-family: 'Baumans'; font-size:20px;
+  
 }
 
 #contentSkills{
   font-family: 'Baumans'; font-size:20px;
+  color: aliceblue;
   text-align: left;
 }
 
