@@ -34,10 +34,10 @@ HTML,CSS,Javascript
 
 Testing
 1. All Page
-i. Test every link and verify that it goes to another website while opening a new tab.
+i. Test every link and verify that it goes to another website and it will open a new tab.
 
 2. Work Experience Page
-i. Test every link and verify that it goes to another website while opening a new tab.
+i. Test every link and verify that it goes to another website and it will open a new tab.
 ii. Check whether light bulb can be turned on and off.
 iii. All flexboxes have content.
 
