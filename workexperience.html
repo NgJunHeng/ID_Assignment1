@@ -1,26 +1,30 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width">
 	<title>My Work Experience</title>
-	<link href="style.css" rel="stylesheet" type="text/css" />
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  
+  <link href='https://fonts.googleapis.com/css?family=Aladin' rel='stylesheet'>
+  <link href='https://fonts.googleapis.com/css?family=Baumans' rel='stylesheet'>
+
+  <script>
+    function changeImage() {
+      var image = document.getElementById('myImage');
+      if (image.src.match("bulbon")) {
+        image.src = "images/pic_bulboff.gif";
+      } else {
+        image.src = "images/pic_bulbon.gif";
+      }
+    }
+    </script>
 </head>
 
-<link href='https://fonts.googleapis.com/css?family=Aladin' rel='stylesheet'>
-<link href='https://fonts.googleapis.com/css?family=Baumans' rel='stylesheet'>
 
-<script>
-  function changeImage() {
-    var image = document.getElementById('myImage');
-    if (image.src.match("bulbon")) {
-      image.src = "images/pic_bulboff.gif";
-    } else {
-      image.src = "images/pic_bulbon.gif";
-    }
-  }
-  </script>
+
+
 
 
 <body>
@@ -45,6 +49,7 @@
       <h2>My Work Experience</h2>
       <p id = 'contentWork' >I have worked many part-time jobs during my holidays.</p>
 </div>
+</div>
 </section>
 
 <section>
@@ -56,7 +61,7 @@
       <br>
       <img src="images/fonda.png" alt="Fonda" width="200" height="200">
 
-      <p id = 'contentWork'>My job was to monitor CCTVs to catch illegal parking under HDB blocks, submit cases to my boss and survey new location of cameras that is going to be installed.
+      <p id = 'contentWork1'>My job was to monitor CCTVs to catch illegal parking under HDB blocks, submit cases to my boss and survey new location of cameras that is going to be installed.
        I learned a lot of hands on skills that will benefit me on my next job.
       </p>
 
@@ -69,7 +74,7 @@
       <br>
       <br>
 
-      <img id="myImage" onclick="changeImage()" src="images/pic_bulboff.gif" width="100" height="180">
+      <img id="myImage" onclick="changeImage()" src="images/pic_bulboff.gif" alt="bulb" width="100" height="180">
 
     </li>
 
@@ -83,7 +88,7 @@
     <li class="flex-item3">
       <h2>Book fest Cashier (Nov 2017 - Dec 2017)</h2>
       <img src="images/popular.jpg" alt="popular" width="200" height="200">
-      <p id = 'contentWork'> I worked as a event cashier for 2 weeks. 
+      <p id = 'contentWork2'> I worked as a event cashier for 2 weeks. 
         I've handled lots of customer during the event.</p>
 
     </li>
@@ -91,7 +96,7 @@
     <li class="flex-item3">
       <h2>Retail Assistant at NTUC (2018-2019)</h2>
       <img src="images/ntuc.jpg" alt="ntuc" width="200" height="200">
-      <p id = 'contentWork'> As a Retail Assistant, i stock up vegetables and fruits to the display area. 
+      <p id = 'contentWork3'> As a Retail Assistant, i stock up vegetables and fruits to the display area. 
         Since i do not have much of an experience to this job, i was able to adapt to it quickly.</p>
 
     </li>
