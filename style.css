@@ -28,12 +28,70 @@
   
 }
 
+#content1{
+  font-family: 'Baumans'; font-size:20px;
+  
+}
+
+#content2{
+  font-family: 'Baumans'; font-size:20px;
+  
+}
+
+#content3{
+  font-family: 'Baumans'; font-size:20px;
+  
+}
+
+#content4{
+  font-family: 'Baumans'; font-size:20px;
+  
+}
+
 #contentWork{
   font-family: 'Baumans'; font-size:20px;
   
 }
 
+#contentWork1{
+  font-family: 'Baumans'; font-size:20px;
+  
+}
+
+#contentWork2{
+  font-family: 'Baumans'; font-size:20px;
+  
+}
+
+#contentWork3{
+  font-family: 'Baumans'; font-size:20px;
+  
+}
+
+#contentEdu{
+  font-family: 'Baumans'; font-size:20px;
+}
+
+#contentEdu2{
+  font-family: 'Baumans'; font-size:20px;
+}
+
+#contentEdu3{
+  font-family: 'Baumans'; font-size:20px;
+}
+
+#contentEdu4{
+  font-family: 'Baumans'; font-size:20px;
+}
+
+
 #contentSkills{
+  font-family: 'Baumans'; font-size:20px;
+  color: black;
+  text-align: left;
+}
+
+#contentSkills1{
   font-family: 'Baumans'; font-size:20px;
   color: black;
   text-align: left;
@@ -44,10 +102,48 @@
   color: whitesmoke;
 }
 
+#contentInfo2{
+  font-family: 'Baumans'; font-size:20px;
+  color: whitesmoke;
+}
+
+#contentInfo3{
+  font-family: 'Baumans'; font-size:20px;
+  color: whitesmoke;
+}
+
 #contentContactInfo{
   font-family: 'Baumans'; font-size:25px;
   color: whitesmoke;
   text-align: left;
+}
+
+#contentProject{
+  font-family: 'Baumans'; font-size:20px;
+}
+
+#contentProject2{
+  font-family: 'Baumans'; font-size:20px;
+}
+
+#contentProject3{
+  font-family: 'Baumans'; font-size:20px;
+}
+
+#contentProject4{
+  font-family: 'Baumans'; font-size:20px;
+}
+
+#contentProject5{
+  font-family: 'Baumans'; font-size:20px;
+}
+
+#contentProject6{
+  font-family: 'Baumans'; font-size:20px;
+}
+
+#contentProject7{
+  font-family: 'Baumans'; font-size:20px;
 }
 
 
@@ -181,7 +277,7 @@ h4{
 
 h5{
   color: black;
-  font-family: 'Bungee Shade';font-size: 35px;
+  font-family: 'Baumans';font-size: 35px;
 }
 
 ul{
